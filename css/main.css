@@ -1,17 +1,78 @@
+.top-bar-section{
+  background-color: ;
+}
+body {
+  color:#212121;
+  background-color: #feebef
+;
+}
+
+.logo{
+  text-align: center;
+  height: 30%;
+}
+
+
+
+
+
+
+#logo{
+  height: 4px; 
+  text-align:center; 
+}
+
+h1{font-family: 'Homemade Apple', cursive;
+  text-align: center;
+}
+
+p{
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.top-bar-section ul li > a{ font-family: 'Cormorant Garamond', serif;
+}
+
+.top-bar{
+  padding:0rem;
+
+}
+
+
 #contact{
-margin: none;
-  background-color: #000;
-    color: white;
+margin: 1rem;
+  background-color: #fccfd8;
+    color: black;
   }
 
 body{
 font-family: 'Play', sans-serif;
 }
 
+.studentchoice img{
+  padding bottom: 3em;
+}
+
+.picker{
+ padding: 0 0 0 26rem;
+}
+
+
 #top-bar-section{
-  background-color: ;
+  background-color: #212121;
 }
 
 #services{
   text-align:center;
 }
+#logo{
+  align-items: center;
+
+}
+
+footer{
+  font-size: 1rem;
+  background-color:  #feebef;
+
+}
+
